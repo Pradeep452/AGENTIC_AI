@@ -16,3 +16,4 @@ def document_agent(question: str, document_text: str):
         "source": "Internet",
         "answer": web_search(question)
     }
+
